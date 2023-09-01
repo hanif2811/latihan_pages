@@ -1,0 +1,66 @@
+.nav{
+    text-align: center;
+    background: #0a005f;
+    
+}
+
+.main{
+    background: #0575E6;
+    background: -webkit-linear-gradient(to right, #021B79, #0575E6);
+    background: linear-gradient(to right, #021B79, #0575E6); 
+}
+.h1{
+    color: white;
+    text-align: center;
+}
+
+
+p{
+    color: white;
+    font-weight: bold;
+    vertical-align: top;
+}
+
+a:link, a:visited{
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover{ 
+    font-weight: bolder;
+    text-decoration: none;
+    color: #eeff00;
+    font-size: 18px;
+}
+
+
+.tabel {
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.tabel td {
+    padding: 10px;
+    color: white;
+    border: 0;
+    vertical-align: middle;
+}
+
+.tabel1 {
+    padding: 15px;
+    border: 1 black;
+    text-align: center;
+    width: 100%;
+}
+
+.head{
+background-color: #78C1F3;
+
+}
+
+.tabel2 {
+background-color: white;
+text-align:  center;
+}

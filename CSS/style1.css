@@ -1,0 +1,75 @@
+.header {
+    background-image: url("https://media.istockphoto.com/id/1247569904/id/vektor/panah-cahaya-biru-cahaya-abstrak-kecepatan-futuristik-pada-latar-belakang-hitam-ilustrasi.jpg?s=170667a&w=0&k=20&c=JPt41VmeTyPvV4Ug4wKLtJK9DWXST8a1B8JDweDHD-k=");
+    background-size: cover;
+  }
+
+.friends, .study {
+    background: #0f0c29;
+    background: -webkit-linear-gradient(to right, #000046, #009af3, #000046); 
+    background: linear-gradient(to right, #000046, #1424ff, #000046);
+}
+
+.main{
+    background: #0575E6;
+    background: -webkit-linear-gradient(to right, #021B79, #0575E6);
+    background: linear-gradient(to right, #021B79, #0575E6); 
+}
+
+.frame{
+    padding: 0;
+}
+  
+.body{
+    color: white;
+}
+
+.content{
+    color: white;
+}
+
+.content2{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+.h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.galeri{
+    background: #1FA2FF;  
+    background: -webkit-linear-gradient(to right, #021B79, #12D8FA, #1FA2FF); 
+    background: linear-gradient(to right, #021B79, #12D8FA, #1FA2FF);
+    
+}
+
+a{
+    color: white;
+}
+
+a:link, a:visited{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{ 
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.iconHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image {
+    margin: 0px 30px 0;
+    max-width: 100%;
+    height: auto;
+  }
+  
